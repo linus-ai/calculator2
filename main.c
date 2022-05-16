@@ -42,7 +42,7 @@ int add(int number1, int number2)
  
 int sub(int number1, int number2)
 {
-	//TODO implementation
+	//subsub TODO implementation
 	return 0;
 }
  
